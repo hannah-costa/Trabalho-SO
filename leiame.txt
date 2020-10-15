@@ -1,0 +1,8 @@
+Nome:               Hannah Moreira Costa
+
+Compilação:         gcc -o shell simple-shell.c
+
+Comandos:           pwd, cd, ls, more, grep, exit
+
+Bugs conhecidos:    * Permite somente um pipe;
+                    * quando o pipe é realizado, geralmente ocorre na ordem inversa.
